@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wayjake
+- 👀 I’m interested in scripting in Nodejs and React 
+- 🌱 I’m currently learning distributed data
+- 💞️ I’m looking to collaborate on open source! 
+- 📫 How to reach me. Hmm. 
